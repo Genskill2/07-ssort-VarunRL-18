@@ -1,6 +1,6 @@
 include<stdio.h>
 
-#include <stdlib.h>
+#include<stdlib.h>
 
 void swap_max(int arr[], int l , int n){
 
